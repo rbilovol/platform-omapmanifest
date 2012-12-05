@@ -353,5 +353,6 @@
   <project path="device/ti/omap5sevm" name="device/ti/omap5sevm" />
   <project path="device/ti/panda5" name="device/ti/panda5" />
   <project path="external/libnfc-ti" name="platform/external/libnfc-ti" />
+  <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" />
 
 </manifest>
