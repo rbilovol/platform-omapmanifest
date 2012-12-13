@@ -3,7 +3,7 @@
 
   <remote  name="omap-mirror"
            fetch=".."
-           review="http://git.omapzoom.org/" />
+           review="http://review.omapzoom.org/" />
   <default revision="p-jb-mr1-release"
            remote="omap-mirror"
            sync-j="2" />
