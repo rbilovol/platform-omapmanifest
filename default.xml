@@ -2,8 +2,10 @@
 <manifest>
 
   <remote  name="omap-mirror"
-           fetch=".."
+           fetch="git://git.omapzoom.org/"
            review="http://review.omapzoom.org/" />
+  <remote  name="ruslan-github"
+           fetch="https://github.com/rbilovol/" />
   <default revision="p-jb-mr1-release"
            remote="omap-mirror"
            sync-j="2" />
