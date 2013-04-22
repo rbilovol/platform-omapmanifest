@@ -361,7 +361,11 @@
   <project path="external/bltsville" name="platform/external/bltsville" revision="master" />
   <project path="external/crda" name="platform/external/crda" />
   <project path="device/ti/omap5sevm" name="device/ti/omap5sevm" />
+<!--
   <project path="device/ti/panda5" name="device/ti/panda5" />
+-->
+  <project path="device/ti/panda5" name="device-ti-panda5" remote="ruslan-github" revision="ruslan-p-jb-mr1-release" />
+
   <project path="external/libnfc-ti" name="platform/external/libnfc-ti" />
   <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" />
 
